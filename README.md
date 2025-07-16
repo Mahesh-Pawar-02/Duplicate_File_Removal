@@ -12,7 +12,6 @@ This script, DuplicateFileRemoval.py, automates the process of identifying and d
 ## Usage
 python DuplicateFileRemoval.py E:/Data/Demo 50 admin123@gmail.com
 
-
 ## Dependencies
 - `hashlib`
 - `os`
