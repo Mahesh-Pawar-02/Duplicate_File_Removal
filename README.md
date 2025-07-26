@@ -28,7 +28,7 @@ python DuplicateFileRemoval.py E:/Data/Demo 50 admin123@gmail.com
    - Deletes the duplicate files and logs their names.
 
 2. *Logging*:
-   - Creates a log file in the "Marvellous" directory.
+   - Creates a log file in the "LogDir" directory.
    - Log file name includes the date and time of creation.
    - Logs contain the names of the deleted duplicate files.
 
